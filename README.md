@@ -23,7 +23,7 @@ Durante mis cursos, he implementado soluciones utilizando:
 - 📂 **[Game Space]**.
 
 ## 📊 Estadísticas de Aprendizaje
-![Stats de Manuela](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_ACADEMICO&show_icons=true&theme=tokyonight)
+![Stats de Manuela](https://github-readme-stats.vercel.app/api?username=mazuluagac&show_icons=true&theme=tokyonight)
 
 ---
 
