@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🎓 Mi Portafolio Académico | Manuela Zuluaga
 
-<!--
-**mazuluagac/mazuluagac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a! Este es el espacio donde almaceno mis proyectos, laboratorios y experimentos realizados durante mi formación profesional en **Administración de Sistemas Informáticos**.
 
-Here are some ideas to get you started:
+## 📚 Educación
+- **Carrera:** Administración de Sistemas Informáticos
+- **Enfoque:** Infraestructura, Desarrollo y Análisis de Datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías Aprendidas
+Durante mis cursos, he implementado soluciones utilizando:
+
+| Tecnología | Uso Académico |
+| :--- | :--- |
+| **PHP** | Desarrollo de aplicaciones web dinámicas y backend. |
+| **Python** | Ciencia de datos, scripts de automatización y lógica. |
+| **JavaScript** | Interactividad en el frontend y validaciones. |
+| **HTML** | Estructuración de contenido web estándar. |
+| **Dockerfile** | Contenerización de entornos de laboratorio y despliegues. |
+
+## 📁 Proyectos Destacados
+*Aquí puedes listar tus repositorios más importantes:*
+- 📂 **[Sistema de Reservas]**.
+- 📂 **[Game Space]**.
+
+## 📊 Estadísticas de Aprendizaje
+![Stats de Manuela](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_ACADEMICO&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Conecta conmigo
+Si buscas mi perfil profesional y proyectos personales, visítame aquí:
+👉 **[Ir a mi Perfil Profesional](https://github.com/manuelazuluagac)**
+
+---
+*“El aprendizaje es un tesoro que sigue a su propietario durante toda la vida.”*
